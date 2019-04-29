@@ -1,4 +1,4 @@
-# API Base v2
+# SLIM API Base v2
 
 ### Information
 
