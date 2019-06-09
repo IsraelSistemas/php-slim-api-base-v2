@@ -1,6 +1,6 @@
--- drop database if exists testAPI;
+drop database if exists testAPI;
 
--- create database testAPI;
+create database testAPI;
 
 use testAPI;
 

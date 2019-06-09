@@ -1,5 +1,5 @@
 <?php 
 
-	require_once ROOT_PATH . "controllers/testController.php";
+	require_once "src/controllers/testController.php";
 
     
