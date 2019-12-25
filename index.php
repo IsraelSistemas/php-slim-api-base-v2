@@ -4,6 +4,11 @@
 	use \Psr\Http\Message\ResponseInterface as Response;
 
 	require_once "vendor/autoload.php";
+	require_once 'src/config/constants.php';
+	require_once 'src/config/config.php';
+	require_once 'src/config/conection.php';
+	require_once 'src/helpers/helpers.php';
+	require_once 'src/middlewares/middleware.php';
 
 	$config = ["settings" => [
 	    "addContentLengthHeader" => false,

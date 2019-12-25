@@ -20,6 +20,11 @@
 2- Run: composer install
 ```
 
+## Run
+```
+1 - php -S localhost:8888
+```
+
 ### Composer custom commands 
 
 Before run this commands you need to be into the root (at level of composer.json file). Note: this commands are in beta version.
