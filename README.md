@@ -20,6 +20,12 @@
 2- Run: composer install
 ```
 
+### Using Git
+```
+Clone the project from github. Change "myproject" to your project name.
+git clone https://github.com/IsraelSistemas/php-slim-api-base-v2.git myproject
+```
+
 ## Run
 ```
 1 - php -S localhost:8888
